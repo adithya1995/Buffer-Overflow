@@ -1,5 +1,6 @@
 /* This program has a buffer overflow vulnerability. */
 /* Our task is to exploit this vulnerability */
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>

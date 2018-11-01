@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
+#include <conio.h>
 
 const char code[] =
   "\x31\xc0"             /* xorl    %eax,%eax              */
